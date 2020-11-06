@@ -1,0 +1,5 @@
+#grid{
+-fx-background-image:url(background.jpg);
+-fx-background-size: cover;
+-fx-background-color:red
+}
