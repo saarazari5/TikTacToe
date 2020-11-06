@@ -14,3 +14,6 @@ the game support 2 game modes: pvp / pve :
 
 ## pvc - minimax
 when playing agains a computer the AI use minimax algorithem to assume the best move to pick in order to beat you
+
+
+![2020-11-06 (9)](https://user-images.githubusercontent.com/51089069/98362791-82d12700-2036-11eb-884b-3a06f58c7045.png)
